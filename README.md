@@ -1,5 +1,5 @@
 # Super-Love-Bot-Python
-### By Adam Murray
+By Adam Murray
 
 ## Desciption
 This is a AI project that scrapes the web to learn about the concept of love and spread it on social media.
